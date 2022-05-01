@@ -2,3 +2,4 @@
 tests
 .DDL
 .fdr
+.env
