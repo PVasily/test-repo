@@ -5,4 +5,4 @@ tests
 .env
 .txt
 .doc
-db.sqlite3
+.dll
